@@ -9,6 +9,8 @@ public class DemoTest {
 		System.out.println(" Welcome Conga ..");
 		
 		System.out.println(" Demo test purpose...!!");
+		
+		System.out.println(" NEW TEST ");
 	}
 
 }
